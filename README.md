@@ -95,9 +95,4 @@ This repository highlights the development of a robust **Digital Library Managem
 - Enhance the web interface with advanced search filters and visualization tools.
 - Extend compatibility to other APIs for broader data integration.
 
----
 
-## **Contact**
-
-For queries or collaboration opportunities:
-- **Email**: yukti.doshi@gmail.com
